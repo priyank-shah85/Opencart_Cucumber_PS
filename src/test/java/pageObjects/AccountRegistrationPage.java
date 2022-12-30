@@ -29,18 +29,24 @@ public class AccountRegistrationPage extends BasePage{
 	@FindBy(name = "password")
 	WebElement txtPassword;
 	
-	// Elements to find field labels 
-	@FindBy(xpath = "//label[@for='input-firstname']")
+	// Elements to find field labels
+	@FindBy(xpath = "//*[@id=\"account\"]/div[1]/label")
 	WebElement fldFirstName;
 	
-	@FindBy(xpath = "//label[@for='input-lastname']")
+	@FindBy(xpath = "//*[@id=\"account\"]/div[2]/label")
 	WebElement fldLastName;
 	
-	@FindBy(xpath = "//label[@for='input-email']")
+	@FindBy(xpath = "//*[@id=\"account\"]/div[3]/label")
 	WebElement fldEmail;
 	
-	@FindBy(xpath = "//label[@for='input-password']")
+	@FindBy(xpath = "//*[@id=\"form-register\"]/fieldset[2]/div/label")
 	WebElement fldPassword;
+	
+	@FindBy(xpath = "//*[@id=\"form-register\"]/fieldset[3]/div/label")
+	WebElement fldNewsletter;
+	
+	@FindBy(xpath = "//*[@id=\"form-register\"]/div/div/div/label")
+	WebElement fldPrivacyPolicy;
 	
 	// Elements to capture mandatory validation message
 	@FindBy(xpath = "//div[@id='error-lastname']")
@@ -78,6 +84,18 @@ public class AccountRegistrationPage extends BasePage{
 		txtPassword.sendKeys(password);
 	}
 	
+	public void chkSubscribe_yes() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"input-newsletter-yes\"]")));
+		((JavascriptExecutor)driver).executeScript("arguments[0].click();", element);
+	}
+	
+	public void chkSubscribe_no() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"input-newsletter-no\"]")));
+		((JavascriptExecutor)driver).executeScript("arguments[0].click();", element);
+	}
+	
 	public void setPrivacyPolicy() {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@name='agree']")));
@@ -90,27 +108,31 @@ public class AccountRegistrationPage extends BasePage{
 		((JavascriptExecutor)driver).executeScript("arguments[0].click();", element1);
 	}
 	
-	// Action methods to verify red asterisk sign
-	public boolean isAstrkDisplayed_fName() {
-		Boolean b = fldFirstName.getText().contains("*");
-		return b;
+	// Action methods to verify fields on page
+	public String isAvailable_fName() {
+		return (fldFirstName.getText());
 	}
 	
-	public boolean isAstrkDisplayed_lName() {
-		Boolean b = fldLastName.getText().contains("*");
-		return b;
+	public String isAvailable_lName() {
+		return (fldLastName.getText());
 	}
 	
-	public boolean isAstrkDisplayed_email() {
-		Boolean b = fldEmail.getText().contains("*");
-		return b;
+	public String isAvailable_email() {
+		return (fldEmail.getText());
 	}
 	
-	public boolean isAstrkDisplayed_pwd() {
-		Boolean b = fldPassword.getText().contains("*");
-		return b;
+	public String isAvailable_pwd() {
+		return (fldPassword.getText());
 	}
 	
+	public String isAvailable_newsletter() {
+		return (fldNewsletter.getText());
+	}
+	
+	public String isAvailable_prvPolicy() {
+		return (fldPrivacyPolicy.getText());
+	}
+
 	// Action methods to verify validation messages for mandatory fields
 	public boolean getValMsg_fName() {
 		try {

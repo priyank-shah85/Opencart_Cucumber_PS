@@ -39,6 +39,24 @@ public class AccountRegistrationPageSteps {
 		logger.info("Entered Password ");
 
 	}
+	
+	@And("User enters Email as {string} and selects Newsletter as {string}")
+	public void user_enters_Email_as_and_selects_Newsletter_as (String email, String subscribe) {
+		if(subscribe.equals("Yes"))
+		{
+			arp.setEmail(email);
+			logger.info("Subscribing to Newsletter ");
+			arp.chkSubscribe_yes();
+		} else if(subscribe.equals("No"))
+		{
+			arp.setEmail(email);
+			logger.info("Not subscribing to Newsletter ");
+			arp.chkSubscribe_no();
+		} else
+		{
+			Assert.fail("Invalid selection for Newsletter field.");
+		}
+	}
 
 	@And("User agree to the Privacy Policy")
 	public void user_agree_to_the_privacy_policy() {
@@ -53,61 +71,28 @@ public class AccountRegistrationPageSteps {
 
 	}
 	
-	// Red asterisk verification steps
-	@Then("Page displays red asterisk sign for mandatory fields")
-	public void page_displays_red_asterisk_sign_for_mandatory_fields() {
-		logger.info("Verifying red asterisk sign for all mandatory fields ");
-		boolean fName = arp.isAstrkDisplayed_fName();
-		boolean lName = arp.isAstrkDisplayed_lName();
-		boolean email = arp.isAstrkDisplayed_email();
-		boolean pwd = arp.isAstrkDisplayed_pwd();
+	// Fields verification
+	@Then ("Verify the fields available on page")
+	public void verify_the_fields_available_on_page() {
+		logger.info("Verifying all available fields on page ");
+		String fName = arp.isAvailable_fName();
+		String lName = arp.isAvailable_lName();
+		String email = arp.isAvailable_email();
+		String pwd = arp.isAvailable_pwd();
+		String news = arp.isAvailable_newsletter();
+		String policy = arp.isAvailable_prvPolicy();
 		
-		try 
+		try
 		{
-			if(fName) 
-			{
-				logger.info("Red asterisk present for First Name field ");
-				Assert.assertTrue(true);
-			} else
-			{
-				logger.info("Red asterisk missing for First Name field ");
-				Assert.assertTrue(false);
-			}
-			
-			if(lName) 
-			{
-				logger.info("Red asterisk present for Last Name field ");
-				Assert.assertTrue(true);
-			} else
-			{
-				logger.info("Red asterisk missing for Last Name field ");
-				Assert.assertTrue(false);
-			}
-			
-			if(email) 
-			{
-				logger.info("Red asterisk present for E-mail field ");
-				Assert.assertTrue(true);
-			} else
-			{
-				logger.info("Red asterisk missing for E-mail field ");
-				Assert.assertTrue(false);
-			}
-			
-			if(pwd) 
-			{
-				logger.info("Red asterisk present for Password field ");
-				Assert.assertTrue(true);
-			} else
-			{
-				logger.info("Red asterisk missing for Password field ");
-				Assert.assertTrue(false);
-			}
-			
-		} catch (Exception e) 
+			Assert.assertEquals(fName, "First Name");
+			Assert.assertEquals(lName, "Last Name");
+			Assert.assertEquals(email, "E-Mail");
+			Assert.assertEquals(pwd, "Password");
+			Assert.assertEquals(news, "Subscribe");
+			Assert.assertEquals(policy, "I have read and agree to the Privacy Policy");
+		} catch (Exception e)
 		{
-			logger.info("Red asterisk missing for one or more mandatory field(s) ");
-			Assert.assertTrue(false);
+			Assert.fail("One or more field labels are incorrect. ");
 		}
 	}
 	
