@@ -27,15 +27,15 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import utilities.DataReader;
 
-public class steps {
-	WebDriver driver;
+public class HomePageSteps {
+	static WebDriver driver;
 	HomePage hp;
 	LoginPage lp;
 	MyAccountPage macc;
 
 	List<HashMap<String, String>> datamap; // Data driven
 
-	Logger logger; // for logging
+	static Logger logger; // for logging
 	ResourceBundle rb; // for reading properties file
 	String br; // to store browser name
 
@@ -95,22 +95,28 @@ public class steps {
 		logger.info("Clicked on Login ");
 	}
 
-	@And("User enters email as {string} and password as {string}")
-	public void user_enters_email_as_and_password_as(String email, String pwd) {
-		lp = new LoginPage(driver);
+	/*
+	 * @And("User enters email as {string} and password as {string}")
+	 * public void user_enters_email_as_and_password_as(String email, String pwd) 
+	 * { 
+	 * 		lp = new
+	 * 		LoginPage(driver);
+	 * 
+	 * 		lp.setEmail(email);
+	 * 		logger.info("Provided Email ");
+	 * 		lp.setPassword(pwd);
+	 *		logger.info("Provided Password ");
+	 * }
+	 * 
+	 * @And("click on Login button")
+	 * public void click_on_login_button()
+	 * {
+	 * 		lp.clickLogin();
+	 * 		logger.info("Clicked on Login button");
+	 *  }
+	 */
 
-		lp.setEmail(email);
-		logger.info("Provided Email ");
-		lp.setPassword(pwd);
-		logger.info("Provided Password ");
-	}
-
-	@And("click on Login button")
-	public void click_on_login_button() {
-		lp.clickLogin();
-		logger.info("Clicked on Login button");
-	}
-
+	/*
 	@Then("User navigates to MyAccount page")
 	public void user_navigates_to_my_account_page() {
 		macc = new MyAccountPage(driver);
@@ -124,6 +130,14 @@ public class steps {
 			Assert.assertTrue(false);
 		}
 
+	}
+	*/
+	
+	@And("click on Register")
+	public void click_on_register() {
+		hp.clickRegister();
+		logger.info("Clicked to register new account ");
+	    
 	}
 
 	//******* Data Driven test method **************
@@ -171,7 +185,4 @@ public class steps {
 		} 
 		driver.close();
 	} 
-
-	// ******* Account Registration Methods **************
-
 }
