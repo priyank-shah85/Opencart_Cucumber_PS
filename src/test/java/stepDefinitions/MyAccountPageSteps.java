@@ -4,6 +4,7 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import pageObjects.MyAccountPage;
 
@@ -26,6 +27,12 @@ public class MyAccountPageSteps {
 			Assert.assertTrue(false);
 		}
 
+	}
+	
+	@And("click on Logout")
+	public void click_on_logout() {
+		logger.info("Successfully logged out ");
+		macc.clickLogout();
 	}
 
 }

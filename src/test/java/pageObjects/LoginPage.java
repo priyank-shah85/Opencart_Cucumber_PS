@@ -1,8 +1,13 @@
 package pageObjects;
 
+import java.time.Duration;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage extends BasePage {
 
@@ -20,7 +25,7 @@ public class LoginPage extends BasePage {
 	@FindBy (xpath = "//button[@type='submit']")
 	WebElement btnLogin;
 	
-	//Action Methods
+	//Action Methods for valid login
 	public void setEmail (String email)
 	{
 		txtEmailAddress.sendKeys(email);
@@ -36,5 +41,11 @@ public class LoginPage extends BasePage {
 		btnLogin.click();
 	}
 	
+	// Action method for invalid credentials warning
+	public String chkWarning() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		WebElement msgWarning = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"alert\"]/div")));
+		return (msgWarning.getText());
+	}
 
 }

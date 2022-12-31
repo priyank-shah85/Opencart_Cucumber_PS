@@ -104,7 +104,7 @@ public class AccountRegistrationPageSteps {
 		boolean lName = arp.getValMsg_lName();
 		boolean email = arp.getValMsg_email();
 		boolean pwd = arp.getValMsg_pwd();
-		boolean msg = arp.isPrivacyPolicyChecked();
+		boolean msg = arp.registerHeading();
 		
 		try 
 		{
@@ -165,5 +165,89 @@ public class AccountRegistrationPageSteps {
 		}
 		
 	}
-
+	
+	// Validate for duplicate account
+	@Then("Validation popped up for duplicate account")
+	public void validation_popped_up_for_duplicate_account() {
+		boolean msg = arp.registerHeading();
+		if(msg)
+		{
+			logger.info("Validation message present for duplicate email ");
+			Assert.assertTrue(true);
+		} else
+		{
+			logger.info("Validation missing for duplicate email address. ");
+			Assert.assertTrue(false);
+		}
+	}
+	
+	// Validation for incorrect email address
+	@Then("Page displays validation for incorrect email address")
+	public void page_displays_validation_for_incorrect_email_address() {
+		boolean invalidEmail = arp.getValMsg_invlidEmail();
+		try 
+		{
+			if(invalidEmail) 
+			{
+				logger.info("Validation message exists for incorrect email address ");
+				Assert.assertTrue(true);
+			} else
+			{
+				logger.info("New account registered with incorrect email address ");
+				Assert.assertTrue(false);
+			}
+		} catch (Exception e)
+		{
+			Assert.assertTrue(e.getMessage(), false);
+		}
+	}
+	
+	// Verify placeholder for all text fields
+	@Then("First Name field shows placeholder as {string}")
+	public void first_name_field_shows_placebolder_as(String ph1) {
+		try
+		{
+			logger.info("Placeholder available for First Name field ");
+			Assert.assertEquals(arp.chkPh_fName(),ph1);
+		} catch (Exception e)
+		{
+			Assert.fail("Incorrect placeholder for First Name field ");
+		}
+	}
+	
+	@And("Last Name field shows placeholder as {string}")
+	public void Last_name_field_shows_placebolder_as(String ph2) {
+		try
+		{
+			logger.info("Placeholder available for Last Name field ");
+			Assert.assertEquals(arp.chkPh_lName(),ph2);
+		} catch (Exception e)
+		{
+			Assert.fail("Incorrect placeholder for Last Name field ");
+		}
+	}
+	
+	@Then("Email field shows placeholder as {string}")
+	public void email_field_shows_placebolder_as(String ph3) {
+		try
+		{
+			logger.info("Placeholder available for E-mail field ");
+			Assert.assertEquals(arp.chkPh_email(),ph3);
+		} catch (Exception e)
+		{
+			Assert.fail("Incorrect placeholder for E-mail field ");
+		}
+	}
+	
+	@Then("Password field shows placeholder as {string}")
+	public void password_field_shows_placebolder_as(String ph4) {
+		try
+		{
+			logger.info("Placeholder available for Password field ");
+			Assert.assertEquals(arp.chkPh_pwd(),ph4);
+		} catch (Exception e)
+		{
+			Assert.fail("Incorrect placeholder for Password field ");
+		}
+	}
 }

@@ -108,8 +108,31 @@ public class AccountRegistrationPage extends BasePage{
 		((JavascriptExecutor)driver).executeScript("arguments[0].click();", element1);
 	}
 	
+	// Action methods to verify placeholder
+	public String chkPh_fName() {
+		String ph1 = txtFirstName.getAttribute("placeholder");
+		return ph1;
+	}
+	
+	public String chkPh_lName() {
+		String ph2 = txtLastName.getAttribute("placeholder");
+		return ph2;
+	}
+	
+	public String chkPh_email() {
+		String ph3 = txtEmail.getAttribute("placeholder");
+		return ph3;
+	}
+	
+	public String chkPh_pwd() {
+		String ph4 = txtPassword.getAttribute("placeholder");
+		return ph4;
+	}
+	
 	// Action methods to verify fields on page
 	public String isAvailable_fName() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+		WebElement fldFirstName = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"account\"]/div[1]/label")));
 		return (fldFirstName.getText());
 	}
 	
@@ -168,10 +191,20 @@ public class AccountRegistrationPage extends BasePage{
 		}
 	}
 	
-	public boolean isPrivacyPolicyChecked() {
+	public boolean registerHeading() {
 		try {
 			Boolean b = msgRegisterPage.isDisplayed();
 			return b;
+		} catch (Exception e) {
+			return (false);
+		}
+	}
+	
+	public boolean getValMsg_invlidEmail() {
+		try {
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+			WebElement valMsgInvalidEmail = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"error-email\"]")));
+			return (valMsgInvalidEmail.isDisplayed());
 		} catch (Exception e) {
 			return (false);
 		}

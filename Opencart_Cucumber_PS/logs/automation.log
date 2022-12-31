@@ -254,3 +254,233 @@
 23:56:01.127 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
 23:56:02.081 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
 23:56:02.081 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+23:31:47.149 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+23:31:47.515 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+23:31:47.595 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+23:31:47.653 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+23:31:47.737 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+23:31:47.803 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+23:31:47.911 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+23:31:47.947 [main] INFO  stepDefinitions.HomePageSteps - Validation message present for duplicate email 
+23:32:09.325 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+23:32:09.632 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+23:32:09.707 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+23:32:09.763 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+23:32:09.833 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+23:32:09.895 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+23:32:10.008 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+23:32:10.044 [main] INFO  stepDefinitions.HomePageSteps - Validation message present for duplicate email 
+23:33:27.877 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+23:33:28.210 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+23:33:28.295 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+23:33:28.346 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+23:33:28.423 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+23:33:28.483 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+23:33:28.595 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+23:33:31.633 [main] INFO  stepDefinitions.HomePageSteps - Validation message present for duplicate email 
+23:48:40.792 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+23:48:41.125 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+23:48:41.218 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+23:48:41.282 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+23:48:41.350 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+23:48:41.406 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+23:48:41.521 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+23:48:42.105 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for incorrect email address 
+00:34:49.729 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:34:50.097 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:34:50.101 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for First Name field 
+00:34:50.145 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Last Name field 
+00:34:50.176 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for E-mail field 
+00:35:35.621 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:35:35.942 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:35:35.946 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for First Name field 
+00:35:36.001 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Last Name field 
+00:35:36.035 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for E-mail field 
+00:35:36.064 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Password field 
+00:38:48.014 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:38:48.333 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:38:48.424 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:38:48.488 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:38:48.568 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+00:38:48.631 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:38:48.739 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:38:49.151 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:38:49.153 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+00:38:50.930 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:38:50.997 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:38:50.998 [main] INFO  stepDefinitions.HomePageSteps - Verifying all available fields on page 
+00:39:03.243 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:03.555 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:03.611 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:39:03.611 [main] INFO  stepDefinitions.HomePageSteps - Verifying validation messages for mandatory conditions 
+00:39:04.274 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for First Name field 
+00:39:04.274 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for Last Name field 
+00:39:04.274 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for E-mail field 
+00:39:04.275 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for Password field 
+00:39:04.275 [main] INFO  stepDefinitions.HomePageSteps - Validation message popped up for Privacy Policy checkbox 
+00:39:06.094 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:06.411 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:06.483 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:39:06.548 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:39:06.621 [main] INFO  stepDefinitions.HomePageSteps - Subscribing to Newsletter 
+00:39:06.722 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:39:06.805 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:39:16.817 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:39:18.736 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:19.068 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:19.144 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:39:19.208 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:39:19.278 [main] INFO  stepDefinitions.HomePageSteps - Not subscribing to Newsletter 
+00:39:19.372 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:39:19.460 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:39:19.862 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:39:19.863 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+00:39:21.668 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:21.734 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:33.765 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:34.073 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:34.148 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:39:34.204 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:39:34.268 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+00:39:34.330 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:39:34.427 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:39:35.001 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for incorrect email address 
+00:39:36.768 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:39:37.061 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:39:37.062 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for First Name field 
+00:39:37.099 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Last Name field 
+00:39:37.125 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for E-mail field 
+00:39:37.149 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Password field 
+00:56:59.204 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:56:59.527 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:56:59.609 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:56:59.680 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:56:59.757 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+00:56:59.819 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:56:59.934 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:00.350 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:57:00.351 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+00:57:00.390 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:00.392 [main] INFO  stepDefinitions.HomePageSteps - Successfully logged out 
+00:57:02.555 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:02.876 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:02.878 [main] INFO  stepDefinitions.HomePageSteps - Verifying all available fields on page 
+00:57:04.959 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:05.252 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:05.309 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:05.309 [main] INFO  stepDefinitions.HomePageSteps - Verifying validation messages for mandatory conditions 
+00:57:05.988 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for First Name field 
+00:57:05.988 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for Last Name field 
+00:57:05.988 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for E-mail field 
+00:57:05.988 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for Password field 
+00:57:05.989 [main] INFO  stepDefinitions.HomePageSteps - Validation message popped up for Privacy Policy checkbox 
+00:57:07.832 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:08.149 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:08.229 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:57:08.294 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:57:08.359 [main] INFO  stepDefinitions.HomePageSteps - Subscribing to Newsletter 
+00:57:08.460 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:57:08.550 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:08.960 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:57:08.961 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+00:57:09.004 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:09.005 [main] INFO  stepDefinitions.HomePageSteps - Successfully logged out 
+00:57:11.156 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:11.503 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:11.581 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:57:11.647 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:57:11.724 [main] INFO  stepDefinitions.HomePageSteps - Not subscribing to Newsletter 
+00:57:11.826 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:57:11.904 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:12.344 [main] INFO  stepDefinitions.HomePageSteps - Validating expected message
+00:57:12.344 [main] INFO  stepDefinitions.HomePageSteps - New account created successfully 
+00:57:12.386 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:12.387 [main] INFO  stepDefinitions.HomePageSteps - Successfully logged out 
+00:57:14.650 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:14.991 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:15.074 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:57:15.149 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:57:15.226 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+00:57:15.281 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:57:15.371 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:15.406 [main] INFO  stepDefinitions.HomePageSteps - Validation message present for duplicate email 
+00:57:17.303 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:17.597 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:17.669 [main] INFO  stepDefinitions.HomePageSteps - Entered first name 
+00:57:17.728 [main] INFO  stepDefinitions.HomePageSteps - Entered last name 
+00:57:17.799 [main] INFO  stepDefinitions.HomePageSteps - Entered E-mail address 
+00:57:17.858 [main] INFO  stepDefinitions.HomePageSteps - Entered Password 
+00:57:17.937 [main] INFO  stepDefinitions.HomePageSteps - User information submitted 
+00:57:18.504 [main] INFO  stepDefinitions.HomePageSteps - Validation message exists for incorrect email address 
+00:57:20.392 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+00:57:20.691 [main] INFO  stepDefinitions.HomePageSteps - Clicked to register new account 
+00:57:20.693 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for First Name field 
+00:57:20.727 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Last Name field 
+00:57:20.756 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for E-mail field 
+00:57:20.784 [main] INFO  stepDefinitions.HomePageSteps - Placeholder available for Password field 
+01:31:27.471 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:31:27.930 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:31:28.043 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:31:28.182 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:31:28.286 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:31:35.766 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:31:36.177 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:31:36.276 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:31:36.347 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:31:36.403 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:31:44.647 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:31:45.057 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:31:45.143 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:31:45.221 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:31:45.282 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:32:46.013 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:32:46.307 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:32:46.407 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:32:46.479 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:32:46.615 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:36:27.847 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:36:28.221 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:36:28.333 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:36:28.411 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:36:28.466 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:36:28.728 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:36:31.930 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:36:32.308 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:36:32.395 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:36:32.472 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:36:32.531 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:36:32.709 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:37:58.496 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:37:58.567 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:38:22.812 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:38:22.885 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:38:35.936 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:38:36.257 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:38:36.385 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:38:36.460 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:38:36.518 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:38:36.787 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:38:39.807 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:38:40.142 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:38:40.236 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:38:40.313 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:38:40.370 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:38:40.550 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:39:38.893 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:39:39.218 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:39:39.314 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:39:39.429 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:39:39.525 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:39:39.788 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:39:42.962 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:39:43.326 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:39:43.421 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:39:43.499 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:39:43.556 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:39:43.740 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
+01:39:46.655 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+01:39:47.076 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+01:39:47.173 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+01:39:47.255 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+01:39:47.311 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+01:39:47.485 [main] INFO  stepDefinitions.HomePageSteps - Validation exists for invalid credentials
