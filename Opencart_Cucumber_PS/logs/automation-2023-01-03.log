@@ -1,0 +1,936 @@
+12:27:47.373 [main] INFO  stepDefinitions.HomePageSteps - Product name Try block starts
+12:27:47.400 [main] INFO  stepDefinitions.HomePageSteps - Product name Catch block starts
+12:34:56.965 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+12:34:57.050 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+12:34:58.123 [main] INFO  stepDefinitions.HomePageSteps - Product name Try block starts
+12:34:58.177 [main] INFO  stepDefinitions.HomePageSteps - Product name Try block endsApple Cinema 30"
+12:34:58.226 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+12:34:58.554 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+12:34:58.561 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+12:34:58.637 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+12:34:59.126 [main] INFO  stepDefinitions.HomePageSteps - Product name Try block starts
+12:34:59.149 [main] INFO  stepDefinitions.HomePageSteps - Product name Catch block starts
+12:41:33.339 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+12:41:33.423 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+12:41:34.503 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+12:41:34.557 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+12:41:34.606 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+12:41:34.953 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+12:41:34.960 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+12:41:35.037 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+12:41:35.086 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+12:41:35.502 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+12:45:42.455 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+12:45:42.545 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+12:45:43.642 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+12:45:43.702 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+12:45:43.756 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+12:45:44.097 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+12:45:44.105 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+12:45:44.175 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+12:45:44.216 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+12:45:44.653 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+12:56:11.202 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+12:56:11.350 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+12:56:12.411 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+12:56:12.460 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+12:56:12.506 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+12:56:12.832 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+12:56:12.839 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+12:56:12.909 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+12:56:12.946 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+12:56:13.383 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:02:04.632 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+13:02:04.734 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+13:02:05.832 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:02:10.897 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+13:02:10.955 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+13:02:11.307 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+13:02:11.318 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+13:02:11.410 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+13:02:11.454 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+13:02:11.853 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:08:44.006 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+13:08:44.085 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+13:08:45.148 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:08:45.206 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+13:08:45.260 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+13:08:45.579 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+13:08:45.586 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+13:08:45.661 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+13:08:45.697 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+13:08:46.133 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:15:17.758 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+13:15:17.843 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+13:15:18.885 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:15:18.930 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+13:15:18.982 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+13:15:19.294 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+13:15:19.300 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+13:15:19.368 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
+13:15:19.409 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
+13:15:19.818 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:16:08.999 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
+13:16:09.075 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
+13:16:10.101 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
+13:16:10.149 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
+13:16:10.203 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
+13:16:10.496 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
+13:16:10.502 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
+13:16:10.574 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
+
+The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
+
+Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
+
+Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
+
+The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
+Features:
+Unrivaled display performance
+30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
+Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
+Wide-format design for simultaneous display of two full pages of text and graphics.
+Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
+Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
+Lightning-fast pixel response for full-motion digital video playback.
+Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
+Simple setup and operation
+Single cable with elegant breakout for connection to DVI, USB and FireWire ports
+Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
+Two FireWire 400 ports to support iSight and other desktop peripherals
+Sleek, elegant design
+Huge virtual workspace, very small footprint.
+Narrow Bezel design to minimize visual impact of using dual displays
+Unique hinge design for effortless adjustment
+Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
+Technical specifications
+Screen size (diagonal viewable image size)
+Apple Cinema HD Display: 30 inches (29.7-inch viewable)
+Screen type
+Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
+Resolutions
+2560 x 1600 pixels (optimum resolution)
+2048 x 1280
+1920 x 1200
+1280 x 800
+1024 x 640
+Display colors (maximum)
+16.7 million
+Viewing angle (typical)
+170° horizontal; 170° vertical
+Brightness (typical)
+30-inch Cinema HD Display: 400 cd/m2
+Contrast ratio (typical)
+700:1
+Response time (typical)
+16 ms
+Pixel pitch
+30-inch Cinema HD Display: 0.250 mm
+Screen treatment
+Antiglare hardcoat
+User controls (hardware and software)
+Display Power,
+System sleep, wake
+Brightness
+Monitor tilt
+Connectors and cables
+Cable
+DVI (Digital Visual Interface)
+FireWire 400
+USB 2.0
+DC power (24 V)
+Connectors
+Two-port, self-powered USB 2.0 hub
+Two FireWire 400 ports
+Kensington security port
+VESA mount adapter
+Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
+Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
+Electrical requirements
+Input voltage: 100-240 VAC 50-60Hz
+Maximum power when operating: 150W
+Energy saver mode: 3W or less
+Environmental requirements
+Operating temperature: 50° to 95° F (10° to 35° C)
+Storage temperature: -40° to 116° F (-40° to 47° C)
+Operating humidity: 20% to 80% noncondensing
+Maximum operating altitude: 10,000 feet
+Agency approvals
+FCC Part 15 Class B
+EN55022 Class B
+EN55024
+VCCI Class B
+AS/NZS 3548 Class B
+CNS 13438 Class B
+ICES-003 Class B
+ISO 13406 part 2
+MPR II
+IEC 60950
+UL 60950
+CSA 60950
+EN60950
+ENERGY STAR
+TCO '03
+Size and weight
+30-inch Apple Cinema HD Display
+Height: 21.3 inches (54.3 cm)
+Width: 27.2 inches (68.8 cm)
+Depth: 8.46 inches (21.5 cm)
+Weight: 27.5 pounds (12.5 kg)
+System Requirements
+Mac Pro, all graphic options
+MacBook Pro
+Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
+Power Mac G5 (PCI Express), all graphics options
+PowerBook G4 with dual-link DVI support
+Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup

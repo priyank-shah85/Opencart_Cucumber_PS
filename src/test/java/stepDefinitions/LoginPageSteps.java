@@ -43,5 +43,12 @@ public class LoginPageSteps {
 			Assert.fail(e.getMessage());
 		}
 	}
+	
+	// Verify browser back after successful login
+	@And("User navigates to previous page with browser back button")
+	public void user_navigates_to_previous_page_with_browser_back_button() {
+		logger.info("Navigating to previous page with browser back button ");
+		HomePageSteps.driver.navigate().back();
+	}
 
 }
