@@ -2,6 +2,7 @@ package pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 import io.cucumber.java.DataTableType;
@@ -31,17 +32,15 @@ public class HomePage extends BasePage{
 	@FindBy(xpath = "//*[@id=\"search\"]/button")
 	WebElement iconSearch;
 	
-	@FindBy(xpath = "//*[@id=\"content\"]/h2")
-	WebElement searchHeading;
+	// Elements for top navigation bar
+	@FindBy(xpath = "//*[@id=\"narbar-menu\"]/ul")
+	WebElement entireNavbar;
 	
-	@FindBy(xpath = "//*[@id=\"content\"]/p")
-	WebElement noResultHeading;
+	@FindBy(xpath = "//*[@id=\"narbar-menu\"]/ul/li[2]/a")
+	WebElement laptopsAndNotebooks_navbar;
 	
-	@FindBy(xpath = "//*[@id=\"input-description\"]")
-	WebElement chkInProductDesc;
-	
-	@FindBy(xpath = "//*[@id=\"button-search\"]")
-	WebElement btnSearch;
+	@FindBy(linkText = "Show All Laptops & Notebooks")
+	WebElement laptopsAndNotebooks_showAll;
 	
 	//Action Methods
 	public void clickMyAccount() {
@@ -72,24 +71,10 @@ public class HomePage extends BasePage{
 		iconSearch.click();
 	}
 	
-	@DataTableType(replaceWithEmptyString = "[blank]")
-	public String compareSearchPage() {
-		return searchHeading.getText();
+	public void click_showAllLaptopsAndNotebooks() {
+		Actions action = new Actions(driver);
+		action.moveToElement(laptopsAndNotebooks_navbar).click().perform();
+		action.moveToElement(laptopsAndNotebooks_showAll).click().perform();
 	}
-	
-	@DataTableType(replaceWithEmptyString = "[blank]")
-	public String noResultReturned() {
-		return noResultHeading.getText();
-	}
-	
-	public void chkProductDesc() {
-		chkInProductDesc.click();
-	}
-
-	public void clickSearchbtn() {
-		btnSearch.click();
-	}
-	
-	
 
 }

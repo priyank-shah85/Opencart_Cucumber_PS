@@ -10,7 +10,8 @@ import org.junit.runner.RunWith;
 			// features= {".//Features/"},
 			// features = { ".//Features/Login.feature" },
 			// features = { ".//Features/Registration.feature" },
-			 features = { ".//Features/Search.feature" },				
+			// features = { ".//Features/Search.feature" },
+			 features = {".//Features/ProductComparison.feature" },
 				
 			// features= {".//Features/LoginDDT.feature"},
 			// features= {".//Features/LoginDDTExcel.feature"},
@@ -30,7 +31,7 @@ import org.junit.runner.RunWith;
 			monochrome = true,
 			tags = "@temp" // Scenarios tagged with @sanity
 			// tags = "@sanity and @regression" //Scenarios tagged with both @sanity and @regression
-			// t-ags = "@sanity or @regression" //Scenarios tagged with either @sanity or @regression
+			// tags = "@sanity or @regression" //Scenarios tagged with either @sanity or @regression
 			// tags = "@sanity and not @regression", //Scenarios tagged with @sanity but not tagged with @regression
 )
 

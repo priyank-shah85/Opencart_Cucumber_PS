@@ -30,14 +30,28 @@ Feature: Searching products with various ways.
 		| test123	|
 		| 				|
 		
-@sanity @regression @Major @temp
+@sanity @regression @Major
 	Scenario: Verify the search within product name or product description.
 		Given User launch browser
 		And opens URL "http://localhost/opencart/upload/index.php"
-		And user enters "mac" word in search box
+		And user enters "phone" word in search box
 		And user clicks on Search icon
 		And user checks Search in product descriptions checkbox
 		And user clicks on Search button
-		Then page returns all products where "mac" is present either in product name or description
+		Then page returns all products where "phone" is present either in product name or description
+		
+@sanity @regression @Critical
+	Scenario: Verify the search within selected Category.
+		Given User launch browser
+		And opens URL "http://localhost/opencart/upload/index.php"
+		And clicks on Show all Laptops & Notebooks link
+		And notes down product names & ids that contains "mac" word
+		And user enters "mac" word in search box
+		And user clicks on Search icon
+		And user selects category as "Laptops & Notebooks"
+		And user clicks on Search button
+		Then page returns all products where keyword is present in product name and belongs to above category
+		
+		
 		
 

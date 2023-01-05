@@ -8,18 +8,13 @@ import java.util.ResourceBundle;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -165,171 +160,12 @@ public class HomePageSteps {
 		hp.clickSearch();
 	}
 	
-	@Then("page displays heading as {string}")
-	public void page_displays_heading_as(String expectedMsg) {
+	// Clicking on Show all Laptops & Notebooks link from top navigation bar
+	@And("clicks on Show all Laptops & Notebooks link")
+	public void clicks_on_Show_all_Laptops_Notebooks_link(){
 		hp = new HomePage(driver);
-		String actualMsg = hp.compareSearchPage();
-		try
-		{
-			logger.info("Correct search page displays ");
-			Assert.assertEquals(expectedMsg, actualMsg);
-		} catch (Exception e)
-		{
-			Assert.fail("Incorrect message for product search " + actualMsg + " ");
-		}
-	}
-	
-	@Then("page displays message as {string}")
-	public void page_displays_message_as(String expectedMsg) {
-		hp = new HomePage(driver);
-		String actualMsg = hp.noResultReturned();
-		try
-		{
-			logger.info("Correct message for no results ");
-			Assert.assertEquals(expectedMsg, actualMsg);
-		} catch (Exception e)
-		{
-			Assert.fail("Incorrect message when no results returned for given search " + actualMsg + " ");
-		}
-	}
-	
-	@And("page title contains {string} word")
-	public void page_title_contains_word(String expectedTitle) {
-		hp = new HomePage(driver);
-		String actualTitle = driver.getTitle();
-		try
-		{
-			if (actualTitle.toLowerCase().contains(expectedTitle.toLowerCase()))
-			{
-				logger.info("Search keyword "+ expectedTitle + " present in page title. ");
-				Assert.assertTrue(true);
-			}
-		}catch (Exception e)
-		{
-			Assert.assertTrue(e.getMessage(), false);
-		}
-	}
-	
-	@And("page returns all products matching with search keyword {string}")
-	public void page_returns_all_products_matching_with_search_keyword(String searchWord) {
-		hp = new HomePage(driver);
-		List<WebElement> list_of_products = driver.findElements(By.tagName("h4"));
-		String product_name;
-		int total_products = 0;
-		try
-		{
-			for(int i=0; i<list_of_products.size(); i++)
-			{
-				product_name = list_of_products.get(i).getText();
-				if(product_name.toLowerCase().contains(searchWord.toLowerCase()))
-				{
-					Assert.assertTrue(true);
-					total_products = total_products + 1;
-				}
-				else
-				{
-					continue;
-				}
-			}
-			logger.info("Total products found: " + total_products + ".");
-		}catch (Exception e)
-		{
-			Assert.fail(e.getMessage());
-		}
-	}
-	
-	@And("page returns no products as search results")
-	public void page_returns_no_products_as_search_results() {
-		hp = new HomePage(driver);
-		List<WebElement> list_of_products = driver.findElements(By.tagName("h4"));
-		try
-		{
-			if(list_of_products.size() == 0)
-			{
-				logger.info("Correct behavior when searching with blank/incorrect keyword ");
-				Assert.assertTrue(true);
-			} else
-			{
-				logger.info("Search returned products without matching keyword ");
-				Assert.assertTrue(false);
-			}
-		} catch (Exception e)
-		{
-			Assert.fail(e.getMessage());
-		}
-	}
-	
-	// Verify search with Product Description checked
-	@And("user checks Search in product descriptions checkbox")
-	public void user_checks_Search_in_product_descriptions_checkbox() {
-		hp = new HomePage(driver);
-		hp.chkProductDesc();
-	}
-	
-	@And("user clicks on Search button")
-	public void user_clicks_on_Search_button() {
-		hp = new HomePage(driver);
-		hp.clickSearchbtn();
-	}
-	
-	@Then("page returns all products where {string} is present either in product name or description")
-	public void page_returns_all_products_where_is_present_either_in_product_name_or_description(String keyword) {
-		hp = new HomePage(driver);
-		List<WebElement> initial_list_of_products = driver.findElements(By.tagName("h4"));
-		WebElement product_link;
-		String product_name;
-		int total_products = 0;
-		try
-		{
-			for(int i=0; i<initial_list_of_products.size(); i++)
-			{
-				WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-				logger.info("Product name assignment starts ");
-				List<WebElement> list_of_products = driver.findElements(By.tagName("h4"));
-				product_name = list_of_products.get(i).getText();
-				//product_name = list_of_products.get(i).getText();
-				//product_link = list_of_products.get(i).findElement(By.linkText(product_name));
-				//logger.info(product_link.getText());
-				logger.info("Product name assigned as: " + product_name + " ");
-				if(product_name.toLowerCase().contains(keyword.toLowerCase()))
-				{
-					logger.info("Product name if block starts");
-					Assert.assertTrue(true);
-					total_products = total_products+1;
-					logger.info("Product name if block ends");
-				}
-				else
-				{
-					product_link = wait.until(ExpectedConditions.elementToBeClickable(By.linkText(product_name)));
-					logger.info("Clicking on product name link ");
-					((JavascriptExecutor)driver).executeScript("arguments[0].click();", product_link);
-					//product_link.click();
-					WebElement descriptionTab = wait.until(ExpectedConditions.elementToBeClickable(By.linkText("Description")));
-					logger.info("Clicking on Description tab ");
-					((JavascriptExecutor)driver).executeScript("arguments[0].click();", descriptionTab);
-					logger.info("Clicked on Description tab ");
-					//wait.wait(10000);
-					WebElement descriptionText = wait.until(ExpectedConditions.elementToBeClickable(By.id("tab-description")));
-					logger.info(descriptionText.getText());
-					if(descriptionText.getText().toLowerCase().contains(keyword.toLowerCase()))
-					{
-						logger.info("Product " + product_name + "'s description contains " + keyword + ".");
-						Assert.assertTrue(true);
-						total_products = total_products+1;
-					}
-					else
-					{
-						logger.info("Product " + product_name + "'s description does not contain " + keyword + ".");
-						Assert.assertTrue(false);
-					}
-					driver.navigate().back();
-				}
-			}
-			logger.info("Total products returned as search results: " + total_products + ".");
-		} catch (Exception e)
-		{
-			Assert.assertTrue(e.getMessage(), false);
-		}
+		logger.info("Clicking on Show all Laptops & Notebooks menu ");
+		hp.click_showAllLaptopsAndNotebooks();
 	}
 
 	//******* Data Driven test method **************
