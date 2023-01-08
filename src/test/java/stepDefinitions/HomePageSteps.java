@@ -8,13 +8,17 @@ import java.util.ResourceBundle;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.locators.RelativeLocator;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -39,6 +43,8 @@ public class HomePageSteps {
 	static Logger logger; // for logging
 	ResourceBundle rb; // for reading properties file
 	String br; // to store browser name
+	
+	public static String featured_product_name = null;
 
 	@Before
 	public void setup() // Junit hook - executes once before starting
@@ -160,12 +166,64 @@ public class HomePageSteps {
 		hp.clickSearch();
 	}
 	
-	// Clicking on Show all Laptops & Notebooks link from top navigation bar
+	// Verify clicks on top navigation bar menus
 	@And("clicks on Show all Laptops & Notebooks link")
 	public void clicks_on_Show_all_Laptops_Notebooks_link(){
 		hp = new HomePage(driver);
-		logger.info("Clicking on Show all Laptops & Notebooks menu ");
+		logger.info("Clicking on Show all Laptops & Notebooks menu--> ");
 		hp.click_showAllLaptopsAndNotebooks();
+	}
+	
+	@And("clicks on Cameras menu from top navigation bar")
+	public void clicks_on_cameras_menu_from_top_navigation_bar(){
+		hp = new HomePage(driver);
+		try
+		{
+			logger.info("Clicking on Cameras menu--> ");
+			hp.clickCameras();
+		} catch (Exception e)
+		{
+			logger.info("Cameras menu is not exists or there is issue with the link. ");
+			Assert.assertTrue(false);
+		}
+	}
+	
+	@And("clicks on Tablets menu from top navigation bar")
+	public void clicks_on_Tablets_menu_from_top_navigation_bar() {
+		hp = new HomePage(driver);
+		try
+		{
+			logger.info("Clicking on Tablets menu--> ");
+			hp.clickTablets();;
+		} catch (Exception e)
+		{
+			logger.info("Tablets menu is not exists or there is issue with the link. ");
+			Assert.assertTrue(false);
+		}
+	}
+	
+	// Click on first Featured product
+	@And("clicks on first product from Featured list")
+	public void clicks_on_first_product_from_featured_list() {
+		hp = new HomePage(driver);
+		//logger.info("Storing featured section");
+		WebElement featured_product_section = driver.findElement(RelativeLocator.with(By.className("row")).below(By.xpath("//*[@id=\"content\"]/h3")));
+		//logger.info("Storing featured products");
+		List<WebElement> featured_products = featured_product_section.findElements(By.tagName("img"));
+		
+		// Getting element of first featured product and click on it
+		if(featured_products.get(0).isDisplayed())
+		{
+			WebElement name = driver.findElement(RelativeLocator.with(By.tagName("h4")).below(featured_products.get(0)));
+			featured_product_name = name.getText();
+			Actions action = new Actions(driver);
+			logger.info("Clicking on first featured product");
+			action.moveToElement(featured_products.get(0)).click().build().perform();
+			//featured_products.get(0).click();
+		} else
+		{
+			logger.info("No product exists under Featured section.");
+		}
 	}
 
 	//******* Data Driven test method **************
@@ -212,5 +270,6 @@ public class HomePageSteps {
 			Assert.assertTrue(false);
 		} 
 		driver.close();
-	} 
+	}
+
 }

@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 			// features = { ".//Features/Login.feature" },
 			// features = { ".//Features/Registration.feature" },
 			// features = { ".//Features/Search.feature" },
-			 features = {".//Features/ProductComparison.feature" },
+			 features = {".//Features/ProductDisplayPage.feature" },
 				
 			// features= {".//Features/LoginDDT.feature"},
 			// features= {".//Features/LoginDDTExcel.feature"},

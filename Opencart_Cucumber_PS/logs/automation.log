@@ -1,627 +1,480 @@
-13:16:10.612 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
-13:16:11.024 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:01:56.893 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-14:01:56.996 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-14:01:58.927 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:01:59.207 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
-14:01:59.312 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-14:02:00.045 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-14:02:00.062 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-14:02:00.242 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
-
-The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
-
-Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
-
-Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
-
-The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
-Features:
-Unrivaled display performance
-30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
-Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
-Wide-format design for simultaneous display of two full pages of text and graphics.
-Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
-Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
-Lightning-fast pixel response for full-motion digital video playback.
-Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
-Simple setup and operation
-Single cable with elegant breakout for connection to DVI, USB and FireWire ports
-Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
-Two FireWire 400 ports to support iSight and other desktop peripherals
-Sleek, elegant design
-Huge virtual workspace, very small footprint.
-Narrow Bezel design to minimize visual impact of using dual displays
-Unique hinge design for effortless adjustment
-Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
-Technical specifications
-Screen size (diagonal viewable image size)
-Apple Cinema HD Display: 30 inches (29.7-inch viewable)
-Screen type
-Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
-Resolutions
-2560 x 1600 pixels (optimum resolution)
-2048 x 1280
-1920 x 1200
-1280 x 800
-1024 x 640
-Display colors (maximum)
-16.7 million
-Viewing angle (typical)
-170° horizontal; 170° vertical
-Brightness (typical)
-30-inch Cinema HD Display: 400 cd/m2
-Contrast ratio (typical)
-700:1
-Response time (typical)
-16 ms
-Pixel pitch
-30-inch Cinema HD Display: 0.250 mm
-Screen treatment
-Antiglare hardcoat
-User controls (hardware and software)
-Display Power,
-System sleep, wake
-Brightness
-Monitor tilt
-Connectors and cables
-Cable
-DVI (Digital Visual Interface)
-FireWire 400
-USB 2.0
-DC power (24 V)
-Connectors
-Two-port, self-powered USB 2.0 hub
-Two FireWire 400 ports
-Kensington security port
-VESA mount adapter
-Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
-Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
-Electrical requirements
-Input voltage: 100-240 VAC 50-60Hz
-Maximum power when operating: 150W
-Energy saver mode: 3W or less
-Environmental requirements
-Operating temperature: 50° to 95° F (10° to 35° C)
-Storage temperature: -40° to 116° F (-40° to 47° C)
-Operating humidity: 20% to 80% noncondensing
-Maximum operating altitude: 10,000 feet
-Agency approvals
-FCC Part 15 Class B
-EN55022 Class B
-EN55024
-VCCI Class B
-AS/NZS 3548 Class B
-CNS 13438 Class B
-ICES-003 Class B
-ISO 13406 part 2
-MPR II
-IEC 60950
-UL 60950
-CSA 60950
-EN60950
-ENERGY STAR
-TCO '03
-Size and weight
-30-inch Apple Cinema HD Display
-Height: 21.3 inches (54.3 cm)
-Width: 27.2 inches (68.8 cm)
-Depth: 8.46 inches (21.5 cm)
-Weight: 27.5 pounds (12.5 kg)
-System Requirements
-Mac Pro, all graphic options
-MacBook Pro
-Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
-Power Mac G5 (PCI Express), all graphics options
-PowerBook G4 with dual-link DVI support
-Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
-14:02:00.323 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
-14:02:01.394 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:34:52.211 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-14:34:52.317 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-14:34:54.223 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:34:54.296 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
-14:34:54.439 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-14:34:55.266 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-14:34:55.283 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-14:34:55.403 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
-
-The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
-
-Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
-
-Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
-
-The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
-Features:
-Unrivaled display performance
-30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
-Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
-Wide-format design for simultaneous display of two full pages of text and graphics.
-Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
-Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
-Lightning-fast pixel response for full-motion digital video playback.
-Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
-Simple setup and operation
-Single cable with elegant breakout for connection to DVI, USB and FireWire ports
-Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
-Two FireWire 400 ports to support iSight and other desktop peripherals
-Sleek, elegant design
-Huge virtual workspace, very small footprint.
-Narrow Bezel design to minimize visual impact of using dual displays
-Unique hinge design for effortless adjustment
-Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
-Technical specifications
-Screen size (diagonal viewable image size)
-Apple Cinema HD Display: 30 inches (29.7-inch viewable)
-Screen type
-Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
-Resolutions
-2560 x 1600 pixels (optimum resolution)
-2048 x 1280
-1920 x 1200
-1280 x 800
-1024 x 640
-Display colors (maximum)
-16.7 million
-Viewing angle (typical)
-170° horizontal; 170° vertical
-Brightness (typical)
-30-inch Cinema HD Display: 400 cd/m2
-Contrast ratio (typical)
-700:1
-Response time (typical)
-16 ms
-Pixel pitch
-30-inch Cinema HD Display: 0.250 mm
-Screen treatment
-Antiglare hardcoat
-User controls (hardware and software)
-Display Power,
-System sleep, wake
-Brightness
-Monitor tilt
-Connectors and cables
-Cable
-DVI (Digital Visual Interface)
-FireWire 400
-USB 2.0
-DC power (24 V)
-Connectors
-Two-port, self-powered USB 2.0 hub
-Two FireWire 400 ports
-Kensington security port
-VESA mount adapter
-Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
-Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
-Electrical requirements
-Input voltage: 100-240 VAC 50-60Hz
-Maximum power when operating: 150W
-Energy saver mode: 3W or less
-Environmental requirements
-Operating temperature: 50° to 95° F (10° to 35° C)
-Storage temperature: -40° to 116° F (-40° to 47° C)
-Operating humidity: 20% to 80% noncondensing
-Maximum operating altitude: 10,000 feet
-Agency approvals
-FCC Part 15 Class B
-EN55022 Class B
-EN55024
-VCCI Class B
-AS/NZS 3548 Class B
-CNS 13438 Class B
-ICES-003 Class B
-ISO 13406 part 2
-MPR II
-IEC 60950
-UL 60950
-CSA 60950
-EN60950
-ENERGY STAR
-TCO '03
-Size and weight
-30-inch Apple Cinema HD Display
-Height: 21.3 inches (54.3 cm)
-Width: 27.2 inches (68.8 cm)
-Depth: 8.46 inches (21.5 cm)
-Weight: 27.5 pounds (12.5 kg)
-System Requirements
-Mac Pro, all graphic options
-MacBook Pro
-Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
-Power Mac G5 (PCI Express), all graphics options
-PowerBook G4 with dual-link DVI support
-Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
-14:34:55.486 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
-14:34:56.408 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:34:56.444 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iMac 
-14:34:56.444 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-14:34:56.445 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-14:34:56.445 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:34:56.488 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iPhone 
-14:34:56.602 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-14:53:08.494 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-14:53:08.599 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-14:53:10.562 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:10.611 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Apple Cinema 30" 
-14:53:10.747 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-14:53:11.518 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-14:53:11.532 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-14:53:11.753 [main] INFO  stepDefinitions.HomePageSteps - The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there's no limit to what you can achieve.
-
-The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it's designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data.
-
-Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple's ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications.
-
-Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment.
-
-The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection.
-Features:
-Unrivaled display performance
-30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color.
-Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery.
-Wide-format design for simultaneous display of two full pages of text and graphics.
-Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks
-Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance.
-Lightning-fast pixel response for full-motion digital video playback.
-Support for 16.7 million saturated colors, for use in all graphics-intensive applications.
-Simple setup and operation
-Single cable with elegant breakout for connection to DVI, USB and FireWire ports
-Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices.
-Two FireWire 400 ports to support iSight and other desktop peripherals
-Sleek, elegant design
-Huge virtual workspace, very small footprint.
-Narrow Bezel design to minimize visual impact of using dual displays
-Unique hinge design for effortless adjustment
-Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately)
-Technical specifications
-Screen size (diagonal viewable image size)
-Apple Cinema HD Display: 30 inches (29.7-inch viewable)
-Screen type
-Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD)
-Resolutions
-2560 x 1600 pixels (optimum resolution)
-2048 x 1280
-1920 x 1200
-1280 x 800
-1024 x 640
-Display colors (maximum)
-16.7 million
-Viewing angle (typical)
-170° horizontal; 170° vertical
-Brightness (typical)
-30-inch Cinema HD Display: 400 cd/m2
-Contrast ratio (typical)
-700:1
-Response time (typical)
-16 ms
-Pixel pitch
-30-inch Cinema HD Display: 0.250 mm
-Screen treatment
-Antiglare hardcoat
-User controls (hardware and software)
-Display Power,
-System sleep, wake
-Brightness
-Monitor tilt
-Connectors and cables
-Cable
-DVI (Digital Visual Interface)
-FireWire 400
-USB 2.0
-DC power (24 V)
-Connectors
-Two-port, self-powered USB 2.0 hub
-Two FireWire 400 ports
-Kensington security port
-VESA mount adapter
-Requires optional Cinema Display VESA Mount Adapter (M9649G/A)
-Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions
-Electrical requirements
-Input voltage: 100-240 VAC 50-60Hz
-Maximum power when operating: 150W
-Energy saver mode: 3W or less
-Environmental requirements
-Operating temperature: 50° to 95° F (10° to 35° C)
-Storage temperature: -40° to 116° F (-40° to 47° C)
-Operating humidity: 20% to 80% noncondensing
-Maximum operating altitude: 10,000 feet
-Agency approvals
-FCC Part 15 Class B
-EN55022 Class B
-EN55024
-VCCI Class B
-AS/NZS 3548 Class B
-CNS 13438 Class B
-ICES-003 Class B
-ISO 13406 part 2
-MPR II
-IEC 60950
-UL 60950
-CSA 60950
-EN60950
-ENERGY STAR
-TCO '03
-Size and weight
-30-inch Apple Cinema HD Display
-Height: 21.3 inches (54.3 cm)
-Width: 27.2 inches (68.8 cm)
-Depth: 8.46 inches (21.5 cm)
-Weight: 27.5 pounds (12.5 kg)
-System Requirements
-Mac Pro, all graphic options
-MacBook Pro
-Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better
-Power Mac G5 (PCI Express), all graphics options
-PowerBook G4 with dual-link DVI support
-Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup
-14:53:11.840 [main] INFO  stepDefinitions.HomePageSteps - Product Apple Cinema 30"'s description contains mac.
-14:53:12.726 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:12.762 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iMac 
-14:53:12.762 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-14:53:12.763 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-14:53:12.763 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:12.804 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iPhone 
-14:53:12.886 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-14:53:13.444 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-14:53:13.455 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-14:53:13.532 [main] INFO  stepDefinitions.HomePageSteps - iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
-14:53:13.551 [main] INFO  stepDefinitions.HomePageSteps - Product iPhone's description contains mac.
-14:53:14.517 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:14.595 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: MacBook 
-14:53:14.596 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-14:53:14.597 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-14:53:14.597 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:14.659 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: MacBook Air 
-14:53:14.660 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-14:53:14.660 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-14:53:14.661 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-14:53:14.708 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: MacBook Pro 
-14:53:14.708 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-14:53:14.709 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-14:53:14.710 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results: 6.
-15:06:58.797 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as phone 
-15:06:58.888 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-15:07:00.627 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:00.662 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: HTC Touch HD 
-15:07:00.740 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-15:07:01.839 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-15:07:01.849 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-15:07:01.967 [main] INFO  stepDefinitions.HomePageSteps - HTC Touch - in High Definition. Watch music videos and streaming content in awe-inspiring high definition clarity for a mobile experience you never thought possible. Seductively sleek, the HTC Touch HD provides the next generation of mobile functionality, all at a simple touch. Fully integrated with Windows Mobile Professional 6.1, ultrafast 3.5G, GPS, 5MP camera, plus lots more - all delivered on a breathtakingly crisp 3.8" WVGA touchscreen - you can take control of your mobile world with the HTC Touch HD.
-Features
-Processor Qualcomm® MSM 7201A™ 528 MHz
-Windows Mobile® 6.1 Professional Operating System
-Memory: 512 MB ROM, 288 MB RAM
-Dimensions: 115 mm x 62.8 mm x 12 mm / 146.4 grams
-3.8-inch TFT-LCD flat touch-sensitive screen with 480 x 800 WVGA resolution
-HSDPA/WCDMA: Europe/Asia: 900/2100 MHz; Up to 2 Mbps up-link and 7.2 Mbps down-link speeds
-Quad-band GSM/GPRS/EDGE: Europe/Asia: 850/900/1800/1900 MHz (Band frequency, HSUPA availability, and data speed are operator dependent.)
-Device Control via HTC TouchFLO™ 3D & Touch-sensitive front panel buttons
-GPS and A-GPS ready
-Bluetooth® 2.0 with Enhanced Data Rate and A2DP for wireless stereo headsets
-Wi-Fi®: IEEE 802.11 b/g
-HTC ExtUSB™ (11-pin mini-USB 2.0)
-5 megapixel color camera with auto focus
-VGA CMOS color camera
-Built-in 3.5 mm audio jack, microphone, speaker, and FM radio
-Ring tone formats: AAC, AAC+, eAAC+, AMR-NB, AMR-WB, QCP, MP3, WMA, WAV
-40 polyphonic and standard MIDI format 0 and 1 (SMF)/SP MIDI
-Rechargeable Lithium-ion or Lithium-ion polymer 1350 mAh battery
-Expansion Slot: microSD™ memory card (SD 2.0 compatible)
-AC Adapter Voltage range/frequency: 100 ~ 240V AC, 50/60 Hz DC output: 5V and 1A
-Special Features: FM Radio, G-Sensor
-15:07:02.003 [main] INFO  stepDefinitions.HomePageSteps - Product HTC Touch HD's description contains phone.
-15:07:02.906 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:02.965 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iPhone 
-15:07:02.965 [main] INFO  stepDefinitions.HomePageSteps - Product name if block starts
-15:07:02.965 [main] INFO  stepDefinitions.HomePageSteps - Product name if block ends
-15:07:02.966 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:03.004 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iPod Nano 
-15:07:03.136 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-15:07:04.541 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-15:07:04.557 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-15:07:04.637 [main] INFO  stepDefinitions.HomePageSteps - Video in your pocket.
-Its the small iPod with one very big idea: video. The worlds most popular music player now lets you enjoy movies, TV shows, and more on a two-inch display thats 65% brighter than before.
-Cover Flow.
-Browse through your music collection by flipping through album art. Select an album to turn it over and see the track list. 
-Enhanced interface.
-Experience a whole new way to browse and view your music and video.
-Sleek and colorful.
-With an anodized aluminum and polished stainless steel enclosure and a choice of five colors, iPod nano is dressed to impress.
-iTunes.
-Available as a free download, iTunes makes it easy to browse and buy millions of songs, movies, TV shows, audiobooks, and games and download free podcasts all at the iTunes Store. And you can import your own music, manage your whole media library, and sync your iPod or iPhone with ease.
-15:07:04.655 [main] INFO  stepDefinitions.HomePageSteps - Product iPod Nano's description contains phone.
-15:07:05.442 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:05.478 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: iPod Touch 
-15:07:05.567 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-15:07:06.883 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-15:07:06.892 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-15:07:06.977 [main] INFO  stepDefinitions.HomePageSteps - Revolutionary multi-touch interface.
-iPod touch features the same multi-touch screen technology as iPhone. Pinch to zoom in on a photo. Scroll through your songs and videos with a flick. Flip through your library by album artwork with Cover Flow.
-Gorgeous 3.5-inch widescreen display.
-Watch your movies, TV shows, and photos come alive with bright, vivid color on the 320-by-480-pixel display.
-Music downloads straight from iTunes.
-Shop the iTunes Wi-Fi Music Store from anywhere with Wi-Fi.1 Browse or search to find the music youre looking for, preview it, and buy it with just a tap.
-Surf the web with Wi-Fi.
-Browse the web using Safari and watch YouTube videos on the first iPod with Wi-Fi built in
- 
-15:07:06.998 [main] INFO  stepDefinitions.HomePageSteps - Product iPod Touch's description contains phone.
-15:07:07.736 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:07.772 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Palm Treo Pro 
-15:07:07.824 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-15:07:08.743 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-15:07:08.754 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-15:07:08.865 [main] INFO  stepDefinitions.HomePageSteps - Redefine your workday with the Palm Treo Pro smartphone. Perfectly balanced, you can respond to business and personal email, stay on top of appointments and contacts, and use Wi-Fi or GPS when you’re out and about. Then watch a video on YouTube, catch up with news and sports on the web, or listen to a few songs. Balance your work and play the way you like it, with the Palm Treo Pro.
-Features
-Windows Mobile® 6.1 Professional Edition
-Qualcomm® MSM7201 400MHz Processor
-320x320 transflective colour TFT touchscreen
-HSDPA/UMTS/EDGE/GPRS/GSM radio
-Tri-band UMTS — 850MHz, 1900MHz, 2100MHz
-Quad-band GSM — 850/900/1800/1900
-802.11b/g with WPA, WPA2, and 801.1x authentication
-Built-in GPS
-Bluetooth Version: 2.0 + Enhanced Data Rate
-256MB storage (100MB user available), 128MB RAM
-2.0 megapixel camera, up to 8x digital zoom and video capture
-Removable, rechargeable 1500mAh lithium-ion battery
-Up to 5.0 hours talk time and up to 250 hours standby
-MicroSDHC card expansion (up to 32GB supported)
-MicroUSB 2.0 for synchronization and charging
-3.5mm stereo headset jack
-60mm (W) x 114mm (L) x 13.5mm (D) / 133g
-15:07:08.885 [main] INFO  stepDefinitions.HomePageSteps - Product Palm Treo Pro's description contains phone.
-15:07:09.405 [main] INFO  stepDefinitions.HomePageSteps - Product name assignment starts 
-15:07:09.440 [main] INFO  stepDefinitions.HomePageSteps - Product name assigned as: Samsung Galaxy Tab 10.1 
-15:07:09.515 [main] INFO  stepDefinitions.HomePageSteps - Clicking on product name link 
-15:07:10.044 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Description tab 
-15:07:10.059 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Description tab 
-15:07:10.140 [main] INFO  stepDefinitions.HomePageSteps - Samsung Galaxy Tab 10.1, is the world’s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core Tegra 2 processor, similar to its younger brother Samsung Galaxy Tab 8.9.
-Samsung Galaxy Tab 10.1 gives pure Android 3.0 experience, adding its new TouchWiz UX or TouchWiz 4.0 – includes a live panel, which lets you to customize with different content, such as your pictures, bookmarks, and social feeds, sporting a 10.1 inches WXGA capacitive touch screen with 1280 x 800 pixels of resolution, equipped with 3 megapixel rear camera with LED flash and a 2 megapixel front camera, HSPA+ connectivity up to 21Mbps, 720p HD video recording capability, 1080p HD playback, DLNA support, Bluetooth 2.1, USB 2.0, gyroscope, Wi-Fi 802.11 a/b/g/n, micro-SD slot, 3.5mm headphone jack, and SIM slot, including the Samsung Stick – a Bluetooth microphone that can be carried in a pocket like a pen and sound dock with powered subwoofer.
-Samsung Galaxy Tab 10.1 will come in 16GB / 32GB / 64GB verities and pre-loaded with Social Hub, Reader’s Hub, Music Hub and Samsung Mini Apps Tray – which gives you access to more commonly used apps to help ease multitasking and it is capable of Adobe Flash Player 10.2, powered by 6860mAh battery that gives you 10hours of video-playback time. äö
-15:07:10.162 [main] INFO  stepDefinitions.HomePageSteps - Product Samsung Galaxy Tab 10.1's description contains phone.
-15:07:10.768 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results: 6.
-16:28:30.270 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as phone 
-16:28:30.384 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-16:28:33.314 [main] INFO  stepDefinitions.HomePageSteps - Product HTC Touch HD's description contains phone.
-16:28:34.297 [main] INFO  stepDefinitions.HomePageSteps - Product iPhone's name contains phone.
-16:28:35.143 [main] INFO  stepDefinitions.HomePageSteps - Product iPod Nano's description contains phone.
-16:28:36.988 [main] INFO  stepDefinitions.HomePageSteps - Product iPod Touch's description contains phone.
-16:28:38.863 [main] INFO  stepDefinitions.HomePageSteps - Product Palm Treo Pro's description contains phone.
-16:28:40.782 [main] INFO  stepDefinitions.HomePageSteps - Product Samsung Galaxy Tab 10.1's description contains phone.
-16:28:41.952 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results: 6.
-17:33:36.485 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-17:33:36.604 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-17:36:12.225 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-17:36:12.326 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-23:18:18.655 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-23:20:56.352 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-11:26:30.118 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-11:51:59.496 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-21:39:04.352 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-21:44:07.345 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-21:45:13.908 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-21:45:14.960 [main] INFO  stepDefinitions.HomePageSteps - [[ChromeDriver: chrome on WINDOWS (a2acd4619a14178caa23fd147a88a644)] -> class name: product-thumb]
-21:47:19.023 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-21:47:20.179 [main] INFO  stepDefinitions.HomePageSteps - HP LP3065
-22:05:35.728 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:05:36.956 [main] INFO  stepDefinitions.HomePageSteps - HP LP3065
-22:05:37.021 [main] INFO  stepDefinitions.HomePageSteps - MacBook
-22:05:37.151 [main] INFO  stepDefinitions.HomePageSteps - MacBook Air
-22:22:47.847 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:22:49.120 [main] INFO  stepDefinitions.HomePageSteps - HP LP3065
-22:22:49.180 [main] INFO  stepDefinitions.HomePageSteps - MacBook
-22:24:41.866 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:24:42.976 [main] INFO  stepDefinitions.HomePageSteps - HP LP3065
-22:24:43.030 [main] INFO  stepDefinitions.HomePageSteps - MacBook
-22:24:43.234 [main] INFO  stepDefinitions.HomePageSteps - MacBook Air
-22:24:43.429 [main] INFO  stepDefinitions.HomePageSteps - MacBook Pro
-22:24:43.619 [main] INFO  stepDefinitions.HomePageSteps - Sony VAIO
-22:24:43.640 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:24:43.756 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:29:13.410 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:29:15.259 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:29:15.260 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:29:15.263 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:29:15.389 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:36:00.385 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:36:02.092 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:36:02.092 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:36:02.097 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:36:02.224 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:36:04.914 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:42:41.020 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:42:42.719 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:42:42.720 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:42:42.723 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:42:42.850 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:42:45.430 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:45:18.734 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:45:20.513 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:45:20.513 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:45:20.517 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:45:20.638 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:45:23.289 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-22:45:23.289 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:45:23.289 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:48:51.719 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:48:53.950 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:48:53.950 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:48:53.954 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:48:54.066 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:48:56.571 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-22:48:56.572 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:48:56.572 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:51:23.344 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:51:25.153 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:51:25.153 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:51:25.156 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:51:25.242 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:51:28.055 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-22:51:28.055 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:51:28.056 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 0
-22:51:28.056 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-22:51:28.056 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:54:40.815 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:54:42.526 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:54:42.526 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:54:42.528 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:54:42.657 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:54:45.354 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-22:54:45.354 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:54:45.355 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 0
-22:54:45.355 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-22:54:45.355 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-22:55:28.232 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-22:55:29.875 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-22:55:29.875 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:55:29.876 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-22:55:29.879 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-22:55:29.999 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-22:55:32.121 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-22:55:32.121 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-22:55:32.121 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 0
-22:55:32.122 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-22:55:32.122 [main] INFO  stepDefinitions.HomePageSteps - Total products returned as search results are not matching with Laptops & Notebooks category products
-23:02:49.658 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-23:02:51.267 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-23:02:51.268 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:02:51.268 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:02:51.271 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-23:02:51.409 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-23:02:54.043 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-23:02:54.044 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:02:54.044 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:02:54.044 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-23:02:54.044 [main] INFO  stepDefinitions.HomePageSteps - Search returned correct number of products and matching with Laptops & Notebooks category products
-23:02:54.045 [main] INFO  stepDefinitions.HomePageSteps - Searched product 45 is part of Laptops & Notebooks category.
-23:02:54.045 [main] INFO  stepDefinitions.HomePageSteps - Searched product 44 is part of Laptops & Notebooks category.
-23:02:54.045 [main] INFO  stepDefinitions.HomePageSteps - Searched product 43 is part of Laptops & Notebooks category.
-23:03:41.959 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-23:03:43.852 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-23:03:43.853 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:03:43.853 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:03:43.856 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-23:03:43.963 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-23:03:46.601 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-23:03:46.601 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:03:46.602 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:03:46.602 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-23:03:46.603 [main] INFO  stepDefinitions.HomePageSteps - Search returned correct number of products and matching with Laptops & Notebooks category products
-23:03:46.603 [main] INFO  stepDefinitions.HomePageSteps - Searched product 45 is part of Laptops & Notebooks category.
-23:03:46.603 [main] INFO  stepDefinitions.HomePageSteps - Searched product 44 is part of Laptops & Notebooks category.
-23:03:46.603 [main] INFO  stepDefinitions.HomePageSteps - Searched product 43 is part of Laptops & Notebooks category.
-23:08:57.160 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Show all Laptops & Notebooks menu 
-23:08:58.891 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [HP LP3065, MacBook, MacBook Air, MacBook Pro, Sony VAIO].
-23:08:58.891 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:08:58.892 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:08:58.895 [main] INFO  stepDefinitions.HomePageSteps - Entered search keyword as mac 
-23:08:59.026 [main] INFO  stepDefinitions.HomePageSteps - Clicked on search icon 
-23:09:01.740 [main] INFO  stepDefinitions.HomePageSteps - Product Names are: [MacBook, MacBook Air, MacBook Pro].
-23:09:01.740 [main] INFO  stepDefinitions.HomePageSteps - Product Ids are: [45, 44, 43].
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - ProductId array size: 3
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - Product_id array size: 3
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - Search returned correct number of products and matching with Laptops & Notebooks category products
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - Searched product ID 45 is part of Laptops & Notebooks category.
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - Searched product ID 44 is part of Laptops & Notebooks category.
-23:09:01.742 [main] INFO  stepDefinitions.HomePageSteps - Searched product ID 43 is part of Laptops & Notebooks category.
+21:58:30.339 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+21:59:38.152 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+21:59:38.225 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+21:59:38.311 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:11:58.281 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:11:58.371 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:11:58.468 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:19:21.530 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:19:21.609 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:19:21.692 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:19:22.607 [main] INFO  stepDefinitions.HomePageSteps - User has redirected to incorrect page.
+22:22:30.580 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:22:30.668 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:22:30.768 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:22:31.690 [main] INFO  stepDefinitions.HomePageSteps - User has redirected to incorrect page.MacBook
+22:23:35.684 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:23:35.768 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:23:35.866 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:23:36.805 [main] INFO  stepDefinitions.HomePageSteps - User has redirected to incorrect page. Browser title assertion: MacBook
+22:26:34.453 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:26:34.530 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:26:34.627 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:26:35.746 [main] INFO  stepDefinitions.HomePageSteps - User has redirected to correct page.
+22:26:35.780 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+22:31:14.186 [main] INFO  stepDefinitions.HomePageSteps - Storing featured section
+22:31:14.266 [main] INFO  stepDefinitions.HomePageSteps - Storing featured products
+22:31:14.347 [main] INFO  stepDefinitions.HomePageSteps - Clicking on first featured product
+22:31:15.317 [main] INFO  stepDefinitions.HomePageSteps - User has redirected to correct page.
+22:31:15.350 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+22:31:15.389 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:00:29.835 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:08:13.294 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:17:56.022 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:17:57.112 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:17:57.162 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:22:29.275 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:22:30.447 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:22:30.521 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:23:16.288 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:23:17.293 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:23:17.371 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+14:34:16.135 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+14:34:16.978 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:34:17.012 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+14:36:42.393 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+14:36:43.140 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:36:43.178 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+15:18:59.652 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+15:19:00.550 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:19:00.594 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+15:19:58.597 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+15:19:59.318 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:19:59.366 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+15:23:47.750 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+15:23:48.485 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:23:48.522 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+15:36:24.281 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+15:36:25.452 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:36:25.531 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+15:36:25.699 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:35.669 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+22:57:36.892 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+22:57:36.959 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+22:57:37.128 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:37.226 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:37.494 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:37.675 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:37.890 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:38.092 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:38.290 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:38.489 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:38.687 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:38.887 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.091 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.260 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.412 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.533 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.735 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:39.927 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.042 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.137 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.238 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.338 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.441 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.533 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.631 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.732 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.831 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:40.928 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.022 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.126 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.240 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.422 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.533 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.631 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.727 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.829 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:41.932 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.047 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.143 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.240 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.343 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.435 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.525 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.615 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.716 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.812 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:42.909 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.010 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.104 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.205 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.305 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.403 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.508 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.692 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.813 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:43.907 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.014 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.119 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.211 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.302 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.441 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.525 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.616 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.705 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.790 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.879 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:44.964 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.061 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.154 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.250 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.349 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.437 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.617 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.738 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.856 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:45.944 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.034 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.118 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.203 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.287 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.375 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.462 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.543 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.624 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.715 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.797 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:46.900 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.038 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.210 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.390 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.541 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.724 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:47.883 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.042 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.219 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.374 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.537 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.725 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:48.905 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.062 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.230 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.367 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.535 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.682 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:49.846 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.014 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.175 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.348 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.493 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.664 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.840 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:50.993 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.104 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.196 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.287 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.383 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.545 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.739 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.898 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:51.989 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.136 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.322 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.462 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.567 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.665 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.758 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:52.860 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.043 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.231 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.414 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.512 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.631 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.813 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:53.999 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.184 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.369 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.487 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.609 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.734 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.863 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:54.964 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.147 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.322 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.509 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.685 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.845 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:55.953 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.043 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.201 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.472 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.572 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.734 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:56.884 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.062 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.241 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.400 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.524 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.698 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:57.889 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.068 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.149 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.237 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.327 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.423 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.516 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.608 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.796 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:58.946 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.034 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.131 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.219 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.314 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.398 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.487 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.579 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.671 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:57:59.758 [main] INFO  stepDefinitions.HomePageSteps - Some issue while traversing the images.
+22:58:41.531 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+22:58:42.500 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+22:58:42.575 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+22:58:42.761 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+22:58:42.846 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:02:19.405 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:02:20.558 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:02:20.618 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:02:20.760 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:02:20.865 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:16.949 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:03:18.085 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:03:18.163 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:03:18.301 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:18.412 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:18.657 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:18.825 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.031 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.229 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.449 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.645 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.807 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:19.995 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:20.164 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:20.344 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:20.558 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:20.741 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:20.887 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.015 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.146 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.252 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.345 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.445 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.544 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.644 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.750 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.846 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:21.950 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.046 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.146 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.246 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.348 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.447 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.548 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.651 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.746 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.848 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:22.951 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.045 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.140 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.241 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.332 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.438 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.530 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.627 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.744 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.837 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:23.925 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:24.015 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:24.105 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:24.195 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:03:24.322 [main] INFO  stepDefinitions.HomePageSteps - Some issue while traversing the images.
+23:05:51.990 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:05:52.977 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:05:53.040 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:05:53.172 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:53.205 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:05:53.251 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:53.350 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:05:53.396 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:05:53.446 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:53.568 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:05:53.613 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:05:53.663 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:53.764 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:05:53.810 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:05:53.860 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:53.982 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:05:54.024 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:05:54.073 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:54.190 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:05:54.234 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:05:54.282 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:54.407 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:05:54.456 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:05:54.503 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:54.612 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:05:54.656 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:05:54.696 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:54.804 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:05:54.829 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:05:54.867 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:54.978 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:05:55.016 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:05:55.063 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:05:55.251 [main] INFO  stepDefinitions.HomePageSteps - Some issue while traversing the images.
+23:29:28.951 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:29:30.022 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:29:30.093 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:29:30.239 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:30.300 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:29:30.346 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:30.507 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:29:30.554 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:29:30.602 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:30.718 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:29:30.764 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:29:30.816 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:30.915 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:29:30.961 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:29:31.006 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:31.106 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:29:31.145 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:29:31.193 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:29:31.303 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:35:22.107 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:35:23.344 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:35:23.421 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:35:23.609 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:23.669 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:23.720 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:23.881 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:35:23.925 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:23.978 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:24.078 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:35:24.122 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:24.168 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:24.288 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:35:24.338 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:24.385 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:24.498 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:35:24.538 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:24.588 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:24.710 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:35:24.754 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:24.801 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:24.948 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:35:24.993 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:25.040 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:25.163 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:35:25.203 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:25.239 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:25.333 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:35:25.372 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:25.419 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:25.511 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:35:25.550 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:35:25.596 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:35:25.696 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:38:19.720 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Cameras menu--> 
+23:38:20.847 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+23:38:20.917 [main] INFO  stepDefinitions.HomePageSteps - Page is showing image of selected product. 
+23:38:21.056 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:21.101 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:21.149 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:21.263 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:38:21.313 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:21.358 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:21.450 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:38:21.500 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:21.550 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:21.661 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:38:21.705 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:21.765 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:21.874 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:38:21.920 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:21.972 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.063 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:38:22.105 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:22.153 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.304 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg
+23:38:22.347 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:22.393 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.501 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg
+23:38:22.545 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:22.597 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.700 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg
+23:38:22.750 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:22.788 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.851 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg
+23:38:22.875 [main] INFO  stepDefinitions.HomePageSteps - Current Image Name: [http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_5-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_4-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_2-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_3-800x800.jpg, http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg]
+23:38:22.900 [main] INFO  stepDefinitions.HomePageSteps - Image displayed.
+23:38:22.956 [main] INFO  stepDefinitions.HomePageSteps - Next Image Name: http://localhost/opencart/upload/image/cache/catalog/demo/nikon_d300_1-800x800.jpg
+23:38:23.030 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+00:42:20.333 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:14:59.808 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:15:00.226 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:15:00.567 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:22:25.374 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:22:25.789 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:22:26.157 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:32:45.317 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:32:45.671 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:32:46.108 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:33:55.652 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:33:56.071 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:33:56.471 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:34:44.754 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:34:45.143 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:34:45.456 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:34:45.533 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+14:47:30.155 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:47:30.524 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:47:30.879 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:47:30.950 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+14:55:02.717 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+14:55:03.089 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+14:55:03.415 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+14:55:03.486 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:05:13.438 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:05:13.795 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:05:14.167 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:05:14.249 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:11:21.536 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:11:21.911 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:11:22.254 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:11:22.332 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:32:16.582 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:32:17.143 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:32:17.795 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:32:17.960 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:38:02.622 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:38:03.022 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:38:03.669 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:38:03.824 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:43:18.200 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:43:18.718 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:43:19.351 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:43:19.510 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+15:46:38.777 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+15:46:39.258 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+15:46:39.701 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+15:46:39.849 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+16:05:22.204 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+16:05:22.721 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+16:05:23.273 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+16:05:23.437 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+16:09:38.443 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Tablets menu--> 
+16:09:38.924 [main] INFO  stepDefinitions.HomePageSteps - Clicking on Samsung Galaxy Tab 10.1 product 
+16:09:39.515 [main] INFO  stepDefinitions.HomePageSteps - User is viewing correct product details.
+16:09:39.623 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Reviews tab.
+16:09:40.779 [main] INFO  stepDefinitions.HomePageSteps - New review was successfully submitted for approval.

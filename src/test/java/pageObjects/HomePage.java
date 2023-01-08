@@ -42,6 +42,16 @@ public class HomePage extends BasePage{
 	@FindBy(linkText = "Show All Laptops & Notebooks")
 	WebElement laptopsAndNotebooks_showAll;
 	
+	@FindBy(linkText = "Cameras")
+	WebElement cameras_navbar;
+	
+	@FindBy(linkText = "Tablets")
+	WebElement tablets_navbar;
+	
+	// Elements to click on first Featured product
+	@FindBy(xpath = "//*[@id=\"content\"]/h3")
+	WebElement msgFeaturedHeading;
+	
 	//Action Methods
 	public void clickMyAccount() {
 		
@@ -75,6 +85,20 @@ public class HomePage extends BasePage{
 		Actions action = new Actions(driver);
 		action.moveToElement(laptopsAndNotebooks_navbar).click().perform();
 		action.moveToElement(laptopsAndNotebooks_showAll).click().perform();
+	}
+	
+	// Return webelement for Featured heading
+	public WebElement featuredHeading() {
+		return msgFeaturedHeading;
+	}
+	
+	// Action methods to click on top navigation bar menus
+	public void clickCameras() {
+		cameras_navbar.click();
+	}
+	
+	public void clickTablets() {
+		tablets_navbar.click();
 	}
 
 }
