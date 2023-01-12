@@ -1,6 +1,6 @@
 Feature: Login Data Driven.
 
-@sanity
+@regression @Major
 	Scenario Outline: Successful login with valid credentials
 		Given User launch browser
 		And opens URL "http://localhost/opencart/upload/index.php"

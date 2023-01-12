@@ -6,8 +6,8 @@ Feature: Account Registration.
 		And opens URL "http://localhost/opencart/upload/index.php"
 		When User navigates to MyAccount menu
 		And click on Register
-		And User enters First Name as "priyank" and Last Name as "shah1"
-		And User enters E-mail as "priyanks4@gmail.com"
+		And User enters First Name as "priyank" and Last Name as "shah22"
+		And User enters E-mail as "priyank22@gmail.com"
 		And User enters Password as "test@123"
 		And User agree to the Privacy Policy
 		And click on Continue button

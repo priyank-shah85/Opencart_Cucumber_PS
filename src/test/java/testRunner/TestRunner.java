@@ -7,12 +7,12 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions
 		(
-			// features= {".//Features/"},
+			 features= {".//Features/"},
 			// features = { ".//Features/Login.feature" },
 			// features = { ".//Features/Registration.feature" },
 			// features = { ".//Features/Search.feature" },
 			// features = {".//Features/ProductDisplayPage.feature" },
-			 features = {".//Features/EndToEnd.feature" },
+			// features = {".//Features/EndToEnd.feature" },
 				
 			// features= {".//Features/LoginDDT.feature"},
 			// features= {".//Features/LoginDDTExcel.feature"},

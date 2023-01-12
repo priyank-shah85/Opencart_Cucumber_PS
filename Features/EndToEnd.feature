@@ -6,8 +6,8 @@ Feature: Verify end to end scenarios.
 		And opens URL "http://localhost/opencart/upload/index.php"
 		And User navigates to MyAccount menu
 		And click on Register
-		And User enters First Name as "priyank" and Last Name as "shah20"
-		And User enters E-mail as "ps20@gmail.com"
+		And User enters First Name as "priyank" and Last Name as "shah23"
+		And User enters E-mail as "ps23@gmail.com"
 		And User enters Password as "test@123"
 		And User agree to the Privacy Policy
 		And click on Continue button

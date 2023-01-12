@@ -1,6 +1,6 @@
 Feature: Login Data Driven with Excel.
 
-@sanity
+@regression @Minor
 	Scenario Outline: Successful login with valid credentials
 		Given User launch browser
 		And opens URL "http://localhost/opencart/upload/index.php"
