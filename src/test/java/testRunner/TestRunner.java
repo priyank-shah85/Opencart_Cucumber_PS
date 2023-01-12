@@ -11,16 +11,16 @@ import org.junit.runner.RunWith;
 			// features = { ".//Features/Login.feature" },
 			// features = { ".//Features/Registration.feature" },
 			// features = { ".//Features/Search.feature" },
-			 features = {".//Features/ProductDisplayPage.feature" },
+			// features = {".//Features/ProductDisplayPage.feature" },
+			 features = {".//Features/EndToEnd.feature" },
 				
 			// features= {".//Features/LoginDDT.feature"},
 			// features= {".//Features/LoginDDTExcel.feature"},
-			// features=
-			// {".//Features/Login.feature",".//Features/AccountRegistration.feature"},
+			// features= {".//Features/Login.feature",".//Features/AccountRegistration.feature"},
 			// features="@target/rerun.txt", // Runs only failures
 			glue = "stepDefinitions",
 			plugin = 
-			{ 
+			{
 				"pretty",
 				"html:reports/myreport.html",
 				"json:reports/myreport.json",
@@ -29,7 +29,7 @@ import org.junit.runner.RunWith;
 					
 			dryRun = false,
 			monochrome = true,
-			tags = "@temp" // Scenarios tagged with @sanity
+			tags = "@sanity" // Scenarios tagged with @sanity
 			// tags = "@sanity and @regression" //Scenarios tagged with both @sanity and @regression
 			// tags = "@sanity or @regression" //Scenarios tagged with either @sanity or @regression
 			// tags = "@sanity and not @regression", //Scenarios tagged with @sanity but not tagged with @regression

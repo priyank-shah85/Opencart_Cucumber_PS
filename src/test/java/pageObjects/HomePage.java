@@ -48,6 +48,10 @@ public class HomePage extends BasePage{
 	@FindBy(linkText = "Tablets")
 	WebElement tablets_navbar;
 	
+	// Elements for top container
+	@FindBy(linkText = "Shopping Cart")
+	WebElement lnkShoppingCart;
+	
 	// Elements to click on first Featured product
 	@FindBy(xpath = "//*[@id=\"content\"]/h3")
 	WebElement msgFeaturedHeading;
@@ -69,6 +73,11 @@ public class HomePage extends BasePage{
 		
 		lnkLogin.click();
 		
+	}
+	
+	// Action methods for top container links
+	public void clickShoppingCart() {
+		lnkShoppingCart.click();
 	}
 	
 	// Action method to find all search results

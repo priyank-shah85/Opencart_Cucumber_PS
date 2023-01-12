@@ -24,6 +24,9 @@ public class ProductDisplayPageSteps {
 	
 	Logger logger = HomePageSteps.logger; // for logging
 	
+	public static String productUnitPrice = null;
+	public static int desiredQty = 0;
+	
 	// Verify product display page for very first featured product
 	@Then("user redirects to main display page of selected product")
 	public void user_redirects_to_main_display_page_of_selected_product() {
@@ -102,6 +105,42 @@ public class ProductDisplayPageSteps {
 		{
 			logger.info("Not able to click on product's image. ");
 			Assert.assertTrue(false);
+		}
+	}
+	
+	@And("note down the product unit price")
+	public void note_down_the_product_unit_price() {
+		try
+		{
+			productUnitPrice = pdp.UnitPrice();
+			logger.info("Unit Price captured: " + productUnitPrice);
+		} catch(Exception e)
+		{
+			Assert.assertTrue("Unit price is not present for product.\n" + e.getMessage(), false);
+		}
+	}
+	
+	@And("user updates quantity to {string}")
+	public void user_updates_quantity_to(String qty) {
+		try
+		{
+			desiredQty = Integer.parseInt(qty);
+			pdp.clearExistingQty();
+			pdp.changeQty(desiredQty);
+		} catch(Exception e)
+		{
+			Assert.assertTrue("Not able to update quantity.\n" + e.getMessage(), false);
+		}
+	}
+	
+	@And("clicks on Add to Cart button")
+	public void clicks_on_add_to_cart_button() {
+		try
+		{
+			pdp.clickAddTocart();
+		} catch(Exception e)
+		{
+			Assert.assertTrue("Not able to adding product to cart.\n" + e.getMessage(), false);
 		}
 	}
 	

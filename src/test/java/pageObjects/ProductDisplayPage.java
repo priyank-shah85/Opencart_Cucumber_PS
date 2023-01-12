@@ -15,12 +15,21 @@ public class ProductDisplayPage extends BasePage {
 		super(driver);
 	}
 	
-	// Elements
+	// Product details elements
 	@FindBy(xpath = "//*[@id=\"content\"]/div[1]/div[2]/h1")
 	WebElement productTitle;
 	
 	@FindBy(xpath = "//*[@id=\"content\"]/div[1]/div[1]/div/a/img")
 	WebElement productLargeImage;
+	
+	@FindBy(className = "price-new")
+	WebElement productUnitPrice;
+	
+	@FindBy(id = "input-quantity")
+	WebElement productQty;
+	
+	@FindBy(id = "button-cart")
+	WebElement btnAddToCart;
 	
 	// Light Box view elements
 	@FindBy(className = "mfp-img")
@@ -54,7 +63,7 @@ public class ProductDisplayPage extends BasePage {
 	@FindBy(xpath = "//*[@id=\"alert\"]/div")
 	WebElement msgSuccess;
 	
-	// Action methods
+	// Action methods for product details
 	public String productTitle() {
 		return productTitle.getText();
 	}
@@ -65,6 +74,22 @@ public class ProductDisplayPage extends BasePage {
 	
 	public void clickProductImage() {
 		productLargeImage.click();
+	}
+	
+	public String UnitPrice() {
+		return (productUnitPrice.getText());
+	}
+	
+	public void clearExistingQty() {
+		productQty.clear();
+	}
+	
+	public void changeQty(int qty) {
+		productQty.sendKeys(String.valueOf(qty));
+	}
+	
+	public void clickAddTocart() {
+		btnAddToCart.click();
 	}
 	
 	/* Capture product large image and store in local project structure

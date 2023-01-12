@@ -88,6 +88,7 @@ public class HomePageSteps {
 	public void opens_url(String url) {
 		driver.get(url);
 		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	}
 
 	@When("User navigates to MyAccount menu")
@@ -149,6 +150,20 @@ public class HomePageSteps {
 		hp.clickRegister();
 		logger.info("Clicked to register new account ");
 	    
+	}
+	
+	// Clicking on top container links
+	@And("clicks on Shopping Cart button from top of the page")
+	public void clicks_on_shopping_cart_button_from_top_of_the_page() {
+		try
+		{
+			hp = new HomePage(driver);
+			hp.clickShoppingCart();
+			Thread.sleep(5000);
+		} catch(Exception e)
+		{
+			Assert.assertTrue("Not able to click on Shopping Cart link.\n" + e.getMessage(), false);
+		}
 	}
 	
 	// Verify search result(s)

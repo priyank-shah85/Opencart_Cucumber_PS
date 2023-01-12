@@ -250,5 +250,17 @@ public class SearchPageSteps {
 			Assert.assertTrue(e.getMessage(),false);
 		}
 	}
+	
+	// Clicks on product link
+	@And("clicks on {string} product")
+	public void clicks_on_product(String productName) {
+		try
+		{
+			sp.clickOnProduct(HomePageSteps.driver, productName);
+		} catch(Exception e)
+		{
+			Assert.assertTrue("Product " + productName + " did not return as search results.\n)" + e.getMessage(), false);
+		}
+	}
 
 }
