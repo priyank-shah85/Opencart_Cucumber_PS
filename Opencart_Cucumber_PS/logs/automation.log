@@ -90,3 +90,11 @@ Expected condition failed: waiting for element to be clickable: Proxy element fo
 23:36:51.705 [main] INFO  stepDefinitions.HomePageSteps - User redirected to Checkout page.
 23:36:52.467 [main] INFO  stepDefinitions.HomePageSteps - Shipping method pre-selected
 23:36:53.445 [main] INFO  stepDefinitions.HomePageSteps - Order submitted successfully.
+14:09:21.924 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+14:09:22.266 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login 
+14:09:22.357 [main] INFO  stepDefinitions.HomePageSteps - Provided Email 
+14:09:22.424 [main] INFO  stepDefinitions.HomePageSteps - Provided Password 
+14:09:22.478 [main] INFO  stepDefinitions.HomePageSteps - Clicked on Login button
+14:09:22.950 [main] INFO  stepDefinitions.HomePageSteps - Login Success 
+14:09:23.013 [main] INFO  stepDefinitions.HomePageSteps - Clicked on My Account 
+14:09:23.015 [main] INFO  stepDefinitions.HomePageSteps - Successfully logged out 

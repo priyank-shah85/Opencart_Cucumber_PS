@@ -157,11 +157,11 @@ public class SearchPageSteps {
 				{
 					product_link = wait.until(ExpectedConditions.elementToBeClickable(By.linkText(product_name)));
 					//logger.info("Clicking on product name link ");
-					((JavascriptExecutor)driver).executeScript("arguments[0].click();", product_link);
+					((JavascriptExecutor)HomePageSteps.driver).executeScript("arguments[0].click();", product_link);
 					//product_link.click();
 					WebElement descriptionTab = wait.until(ExpectedConditions.elementToBeClickable(By.linkText("Description")));
 					//logger.info("Clicking on Description tab ");
-					((JavascriptExecutor)driver).executeScript("arguments[0].click();", descriptionTab);
+					((JavascriptExecutor)HomePageSteps.driver).executeScript("arguments[0].click();", descriptionTab);
 					//logger.info("Clicked on Description tab ");
 					//wait.wait(10000);
 					WebElement descriptionText = wait.until(ExpectedConditions.elementToBeClickable(By.id("tab-description")));

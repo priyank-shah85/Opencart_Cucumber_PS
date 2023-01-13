@@ -24,7 +24,11 @@ import org.junit.runner.RunWith;
 				"pretty",
 				"html:reports/myreport.html",
 				"json:reports/myreport.json",
-				"rerun:target/rerun.txt" // Mandatory to capture failures
+				"rerun:target/rerun.txt", // Mandatory to capture failures
+				"html:target/cucumber-html-report",
+				"json:target/cucumber-reports/cucumber.json",
+				"junit:target/cucumber-reports/cucumber.xml",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 			},
 					
 			dryRun = false,

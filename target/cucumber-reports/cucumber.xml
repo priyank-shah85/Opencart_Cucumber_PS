@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.486">
+    <testcase classname="Login with valid credentials." name="Successful login with valid credentials" time="7.25">
+        <system-out><![CDATA[Given User launch browser...................................................passed
+And opens URL "http://localhost/opencart/upload/index.php"..................passed
+When User navigates to MyAccount menu.......................................passed
+And click on Login..........................................................passed
+And User enters email as "priyankshah@gmail.com" and password as "test@123".passed
+And click on Login button...................................................passed
+Then User navigates to MyAccount page.......................................passed
+And User navigates to MyAccount menu........................................passed
+And click on Logout.........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
